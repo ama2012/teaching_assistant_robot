@@ -1,10 +1,10 @@
 Key points for 1st Year Biology topic the Digestive System.
 
 - Terminology
--- Ingestion : taking in food.
--- Digestion : breaking down food.
--- Absorption : taking digestied food from our intestines into our blood.
--- Assimilation : using the food in the cells of the body.
+- - Ingestion : taking in food.
+- - Digestion : breaking down food.
+- - Absorption : taking digestied food from our intestines into our blood.
+- - Assimilation : using the food in the cells of the body.
 -- Egestion : discharge of undigested waste.
 -- Enzyme : a chemical (made of protein) produced by the body that speeds up chemical reactions in the body without being used up.
 -- Catalyst : a substance that speeds up reactions.
