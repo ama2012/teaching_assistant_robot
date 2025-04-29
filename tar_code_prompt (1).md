@@ -5,22 +5,18 @@ Write a simpler version in flask server, to create a public web service for an i
 The post request body is:
 
 ```
-
 {"agent": "agent name", "action": "action name", prompt:"", expire: int}
-
 ```
-
 
 On the server side, it store the action in a db in format of a queue, push it by time order. The agents can connect to server, listen to the agent name, if it is calling this agent, pop the request from queue DB, do the requested action.
 
 If the request expires in given "int" seconds without any agents pop it, delete that request.
-
 It has a queue for two topics, one for "show example video" agent, the other for "do a dance" agent.
 
-Add debuging log
-Add port and debug and threaded to arg from config
+Add debuging log.
+Add port and debug and threaded to arg from config.
 
-Implement a simple Auth check the API key in header, give a random key, http Auth Type is basic
+Implement a simple Auth check the API key in header, give a random key, http Auth Type is basic.
 Use this sample key "YWdlbnQ6eW91cl9hcGlfa2V5X2hlcmU=" in the code, make the code cleaner and simpler. 
 
 # Agent Client
@@ -30,16 +26,15 @@ Write a client for "show_example_video" agent in python to use "browser use" too
 ## Show sample video agent
 When user close the opened chromun broswer, force to stop the "browser use" instance, and continue the action polling.
 Use the following system prompt
-
-"""
+```
 1. Open YouTube (www.youtube.com).
 2. Search for videos about "{task}".
 3. Filter the search results to show videos with a duration of under 10 minutes.
 4. From the filtered results, prioritize and select a video that is ideally around 5 minutes in length and appears to be a clear and concise lesson on the topic.
 5. Click on the selected video to play it.
 6. Wait for 5 mins for the video playing.
-7. Close the browser and end task after 5mins."
-"""
+7. Close the browser and end task after 5mins.
+```
 
 ## Robot dance agent
 Use this github project https://github.com/noamraph/mindstorms
