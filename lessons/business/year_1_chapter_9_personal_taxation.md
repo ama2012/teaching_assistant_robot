@@ -26,19 +26,17 @@ In Ireland, the the income tax rate is:
 - Indirect tax = regressive tax.
 
 Quick Quiz
-- Explain what is meant by tax?
-Tax is the main source of income for the government. It is taken from the people, households and and businesses of Ireland from their wages, other household income and business profits.
+Explain what is meant by tax?
+- Tax is the main source of income for the government. It is taken from the people, households and and businesses of Ireland from their wages, other household income and business profits.
 
-- Why does the government need to impose taxes?
-Taxes are used to fund the things the government does to run the country.
+Why does the government need to impose taxes?
+- Taxes are used to fund the things the government does to run the country.
 
-- Explain what is meant by a direct tax and an indirect tax.
-Direct tax is the tax on the income you earn.
-Indirect tax is the tax on goods or services.
+Explain what is meant by a direct tax and an indirect tax.
+- Direct tax is the tax on the income you earn. Indirect tax is the tax on goods or services.
 
 - Explain the difference between a progressive tax and a regressive tax.
-Progressive tax = Direct tax
-Regressive tax = Indirect tax
+- Progressive tax = Direct tax. Regressive tax = Indirect tax
 
-- Evaluate the role of the Revnenue Commissioners in Ireland.
-They collect tax from the people.
+Evaluate the role of the Revnenue Commissioners in Ireland.
+- They collect tax from the people.
