@@ -1,14 +1,14 @@
 Key points for 1st Year Physics topic Density.
 
-- Terminology
-Density : the mass of each cubic metre of a material.
-Flotation : the action of floating.
-Mass : the amount of matter in an object, this amount never changes.
-Volume : a measure of the space taken up by an object.
-Overflow can : laboratory equipment used to measure the volume of an irregular object and determine the density of an object or a liquid.
-g cm-3 : a unit of measurement for density.
-kg m-3 : a unit of measurement for density.
-Graph : a diagram that shows the corrolation between 2 sets of variables.
+Terminology
+- - Density : the mass of each cubic metre of a material.
+- - Flotation : the action of floating.
+- - Mass : the amount of matter in an object, this amount never changes.
+- - Volume : a measure of the space taken up by an object.
+- - Overflow can : laboratory equipment used to measure the volume of an irregular object and determine the density of an object or a liquid.
+- - g cm-3 : a unit of measurement for density.
+- - kg m-3 : a unit of measurement for density.
+- - Graph : a diagram that shows the corrolation between 2 sets of variables.
 
 - Density = Mass/Volume
 - Water is 1g cm-3
