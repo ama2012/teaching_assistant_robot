@@ -32,44 +32,34 @@ Gold : 19.32 g/cm³ or 19,320 kg/m³
 Mercury : 13.53 g/cm³ or 13,530 kg/m³
 Osmium : 22.59 g/cm³ or 22,590 kg/m³
 
-- What are the two sets of units that can be used to measure density?
-gcm-3 and kgm-3
+What are the two sets of units that can be used to measure density?
+- gcm-3 and kgm-3
 
-- If 250cm3 of a liquid had a mass of 200g, what would be it density?
-0.8 gcm3
+If 250cm3 of a liquid had a mass of 200g, what would be it density?
+- 0.8 gcm3
 
-- A liquid has a density of 1.2gcm-3 and the volume of this liquid is 20cm3. What is the mass of this liquid?
-24g
+A liquid has a density of 1.2gcm-3 and the volume of this liquid is 20cm3. What is the mass of this liquid?
+- 24g
 
-- Calculate the volume of an object if it has a mass of 96g and a density of 12gcm-3.
-8cm3
+Calculate the volume of an object if it has a mass of 96g and a density of 12gcm-3.
+- 8cm3
 
-- A rectangular block has a length of 8cm, width of 5cm, and a height of 3cm. It has a mass of 1440g. Find 
-(a) The volume of the block.
-120cm3
-(b) The density of the block.
-12gcm-3
+A rectangular block has a length of 8cm, width of 5cm, and a height of 3cm. It has a mass of 1440g. Find 
+- (a) The volume of the block. 120cm3
+- (b) The density of the block. 12gcm-3
 
-- To measure the density of a rectangular block :
-(a) What four measurements do you have to make?
-Length, Width, Height and Mass.
-(b) How do you calculate the volume of the rectangular block using three measurements?
-Length * Width * Height = Volume
-(c) How do you calculate density using the measurements?
-Mass / Volume
+To measure the density of a rectangular block :
+- (a) What four measurements do you have to make? Length, Width, Height and Mass.
+- (b) How do you calculate the volume of the rectangular block using three measurements? Length * Width * Height = Volume
+- (c) How do you calculate density using the measurements? Mass / Volume
 
-- In an activity to measure the density of an irregular solid, Ciara noted the following measurements : The mass of a small stone = 27g. The reading of the level of water in the graduated cylinder was 10cm3 before the stone was placed into the overflow can. The reading of the water level was 19cm3 after the stone was placed into the overflow can.
-(a) Calculate the volume of the stone.
-9cm3
-(b) Calculate the denstity of the stone.
-3gcm-3
+In an activity to measure the density of an irregular solid, Ciara noted the following measurements : The mass of a small stone = 27g. The reading of the level of water in the graduated cylinder was 10cm3 before the stone was placed into the overflow can. The reading of the water level was 19cm3 after the stone was placed into the overflow can.
+- (a) Calculate the volume of the stone. 9cm3
+- (b) Calculate the denstity of the stone. 3gcm-3
 
-- A rectangular block has a length of 1.5m, a width of 50cm and a height of 40cm. It has a mass of 810kg.
-(a) Calculate the density of the block.
-2700kgm-3
-(b) State the unit of density used here.
-kgm-3
-
+A rectangular block has a length of 1.5m, a width of 50cm and a height of 40cm. It has a mass of 810kg.
+- (a) Calculate the density of the block. 2700kgm-3
+- (b) State the unit of density used here. kgm-3
 - A rectangular block has a length of 30cm, a width of 18cm and a height of 10cm. It has a mass of 10.8kg.
 (a) Calculate the density of the block.
 200kgm-3
