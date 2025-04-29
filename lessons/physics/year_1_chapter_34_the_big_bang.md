@@ -1,12 +1,12 @@
 Key points for 1st Year Earth and Space topic The Big Bang.
 
-- Terminology
- Galaxies : a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity.
- Solar System : consists of a sun and everything that orbits it.
- Astronomer : a person who studies astronomy.
- Expanding universe : the discovery that all objects in the universe are moving away from each other.
- Singularity : a zone that was the origin of the universe, it is very very small, very very dense and very very hot.
- Gravity :  a force that pulls particles together. 
+Terminology
+- - Galaxies : a huge collection of gas, dust, and billions of stars and their solar systems, all held together by gravity.
+- - Solar System : consists of a sun and everything that orbits it.
+- - Astronomer : a person who studies astronomy.
+- - Expanding universe : the discovery that all objects in the universe are moving away from each other.
+- - Singularity : a zone that was the origin of the universe, it is very very small, very very dense and very very hot.
+- - Gravity :  a force that pulls particles together. 
 
 - The universe is a huge area of space within which all the galaxies, stars and solar systems are found.
 - Scientists believe there was a beginning to the universe.
@@ -21,13 +21,13 @@ Key points for 1st Year Earth and Space topic The Big Bang.
 - Scientists call this single zone the singularity.
 - Within a single moment this intensely hot singularity expanded rapidly. This is the Big Bang.
 
-- Timeline
- 13.8 billion years ago : The Big Bang.
- A few seconds later : Birth of subatomic particles.
- 380 thousand years later : Electrons and nuclei pulled together by gravity to create atoms. The Dark Ages.
- 300 million years later : Stars start to form.
- 1 billion years later : Galaxies start to form.
- 9 billion years later : The solar system forms.
+Timeline
+- - 13.8 billion years ago : The Big Bang.
+- - A few seconds later : Birth of subatomic particles.
+- - 380 thousand years later : Electrons and nuclei pulled together by gravity to create atoms. The Dark Ages.
+- - 300 million years later : Stars start to form.
+- - 1 billion years later : Galaxies start to form.
+- - 9 billion years later : The solar system forms.
 
 - After the Big Bang, the universe started to cool as it expanded.
 - The cooler temperature allowed forces to exist, gravity was one of them.
