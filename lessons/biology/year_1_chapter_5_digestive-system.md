@@ -14,13 +14,12 @@ Terminology
 - - Peristalsis : a wave-like movement of muscles in the body.
 - - Fibre : material not broken down or digested by enzymes in our digestive system.
 - - Stomach : a muscular bag that holds food for a few hours.
-- - Organs : 
-- - Small intestine : 
-- - Liver 
-- - Bile : 
-- - Pancreas : 
-- - Large intesine : 
-- - Faeces : 
+- - Organs : a group of cells that have a specific function. 
+- - Small intestine : an organ below the stomach that contains enzymes, where most digestion takes place and most absorption of nutrients into the bloodstream takes place.
+- - Liver : a large organ located to the right of the stomach carrying out many functions including the production of bile.
+- - Bile : a green/brown liquid produced by the liver that digests fat.
+- - Pancreas : an organ located near the stomach that produces digestive enzymes, they flow from the pancreas to the small intestine.
+- - Large intesine : an organ that reabsorbs water into the bloodstream.
 
 The digestive system consists of :
 - - The mouth
@@ -41,7 +40,7 @@ The digestive system consists of :
 - - Physical digestion = the mechanical breakdown of food.
 - - Chemical digestion = the breakdown of food using enzymes and hydrochloric acid.
 
-Our teeth physically digest food when we chew.
+- Our teeth physically digest food when we chew.
 - Our four types of teeth:
 - - Incisors = cut and slice food
 - - Canines = grip and tear food
@@ -50,12 +49,12 @@ Our teeth physically digest food when we chew.
 - Chemical digestion in the mouth happens with saliva.
 - It contains an enzyme called amylase that breaks down starch into maltose.
 
-- Oesophagus - what it is, function
 - Stomach - what it is, functions
 - Small intestine - what it is, function, most digestion takes place here
 - Liver - what it is, production of bile
 - BIle - green/brown liquid that breaks down fat.
 - Pancreas - what it is, function
-- Large intestine - an organ that reabsorbs water into the bloodstream.
-- Faeces - what it is
-- Rectum and anus = egestion of faeces
+- If too much water is absorbed, the faeces will be too solid (constipation).
+- If too less water is absorbed, the faeces will be too liquid (diarrhoea).
+- Rectum : stores faeces.
+- Anus : egestion of faeces
