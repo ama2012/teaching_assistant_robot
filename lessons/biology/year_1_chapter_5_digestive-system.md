@@ -1,6 +1,6 @@
 Key points for 1st Year Biology topic the Digestive System.
 
-- Terminology
+Terminology
 - - Ingestion : taking in food.
 - - Digestion : breaking down food.
 - - Absorption : taking digestied food from our intestines into our blood.
@@ -22,7 +22,7 @@ Key points for 1st Year Biology topic the Digestive System.
 - - Large intesine : 
 - - Faeces : 
 
-- The digestive system consists of :
+The digestive system consists of :
 - - The mouth
 - - The epiglottis
 - - The oesophagus
@@ -38,9 +38,10 @@ Key points for 1st Year Biology topic the Digestive System.
 - Food that does not pass into the bloodstream forms waste called faeces.
 - The mouth takes in and digests food. 
 - The 2 types of digestion: 
-Physical digestion = the mechanical breakdown of food.
-Chemical digestion = the breakdown of food using enzymes and hydrochloric acid.
-- Our teeth physically digest food when we chew.
+- - Physical digestion = the mechanical breakdown of food.
+- - Chemical digestion = the breakdown of food using enzymes and hydrochloric acid.
+
+Our teeth physically digest food when we chew.
 - Our four types of teeth:
 - - Incisors = cut and slice food
 - - Canines = grip and tear food
@@ -48,6 +49,7 @@ Chemical digestion = the breakdown of food using enzymes and hydrochloric acid.
 - - Molars = chew and crush food
 - Chemical digestion in the mouth happens with saliva.
 - It contains an enzyme called amylase that breaks down starch into maltose.
+
 - Oesophagus - what it is, function
 - Stomach - what it is, functions
 - Small intestine - what it is, function, most digestion takes place here
