@@ -39,31 +39,31 @@ Timeline
 - The Big Crunch : the universe will reach its maximum size and then like an elastic band it will snap back into a singularity.
 
 Summary questions
-- Explain what is meant by the Big Bang. When did the Big Bang happen?
-The Big Bang is the thoery that the whole universe started as a singularity that suddenly began expanding. It happened about 13.8 billion years ago.
+Explain what is meant by the Big Bang. When did the Big Bang happen?
+- The Big Bang is the thoery that the whole universe started as a singularity that suddenly began expanding. It happened about 13.8 billion years ago.
 
-- Explain the words 'astronomy' and 'astronomer'.
-'Astronomy' is the study of the universe and an 'astronomer' is someone who studies astronomy.
+Explain the words 'astronomy' and 'astronomer'.
+- 'Astronomy' is the study of the universe and an 'astronomer' is someone who studies astronomy.
 
-- Outline Hubble's Law.
-Galaxies are moving away from each other. The further away a galaxy is, the faster it is moving away from us.
+Outline Hubble's Law.
+- Galaxies are moving away from each other. The further away a galaxy is, the faster it is moving away from us.
 
-- Explain the term 'singularity'.
-A singularity is a very very small, very very dense, very very hot.
+Explain the term 'singularity'.
+- A singularity is a very very small, very very dense, very very hot.
 
-- Describe why telescopes on Earth can receive distorted images of objects in space.
-Telescopes on Earth can get blurry or distorted images because the light from space has to pass through Earth's atmosphere, and the air  moves around and bends the light in different ways.
+Describe why telescopes on Earth can receive distorted images of objects in space.
+- Telescopes on Earth can get blurry or distorted images because the light from space has to pass through Earth's atmosphere, and the air  moves around and bends the light in different ways.
 
-- Write out the sequence of events of the Big Bang.
- 13.8 billion years ago : The Big Bang.
- A few seconds later : Birth of subatomic particles.
- 380 thousand years later : Electrons and nuclei pulled together by gravity to create atoms. The Dark Ages.
- 300 million years later : Stars start to form.
- 1 billion years later : Galaxies start to form.
- 9 billion years later : The solar system forms.
+Write out the sequence of events of the Big Bang.
+- 13.8 billion years ago : The Big Bang.
+- A few seconds later : Birth of subatomic particles.
+- 380 thousand years later : Electrons and nuclei pulled together by gravity to create atoms. The Dark Ages.
+- 300 million years later : Stars start to form.
+- 1 billion years later : Galaxies start to form.
+- 9 billion years later : The solar system forms.
 
-- From your research, list the main scientific discoveries that support the theory of the Big Bang.
-Expanding universe and how the elements are formed.
+From your research, list the main scientific discoveries that support the theory of the Big Bang.
+- Expanding universe and how the elements are formed.
 
-- Explain why telescopes in space provide better information than telescopes on Earth.
-Telescopes in space are not affected by the Earth's atmosphere, therefore providing better and clearer images.
+Explain why telescopes in space provide better information than telescopes on Earth.
+- Telescopes in space are not affected by the Earth's atmosphere, therefore providing better and clearer images.
