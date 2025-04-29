@@ -1,24 +1,24 @@
 Key points for 1st Year Business topic Personal Taxation
 
 - The government needs income to run the country.
-- They need it to:
-Build schools and hospitals.
-Making social welfare payments.
-Repaying government loans and interests.
-Paying state employers like the Gardaí and teachers.
+They need it to:
+- - Build schools and hospitals.
+- - Making social welfare payments.
+- - Repaying government loans and interests.
+- - Paying state employers like the Gardaí and teachers.
 - Tax is the main source of income for the government.
 - It is taken from the people, households and and businesses of Ireland from their wages, other household income and business profits.
 - The Office of the Revenue Commissioners is responsible for collecting taxes on behalf of the government.
 - Called 'revenue' for short.
-- Tax divided into 2 categories
-Direct Tax
-Indirect Tax
+Tax divided into 2 categories
+- - Direct Tax
+- - Indirect Tax
 - Direct tax is any tax from your inome.
 - Usually calculated as a percentage of the income.
 - The higher the income, the higher the tax.
-- In Ireland, the the income tax rate is:
-20% on all income earned up to €40000.
-40% on all income above.
+In Ireland, the the income tax rate is:
+- - 20% on all income earned up to €40000.
+- - 40% on all income above.
 - Direct tax = progressive tax.
 - Tax on goods or services = indirect tax.
 - Usually calculated as a percentage of the goods or services.
